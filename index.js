@@ -1,7 +1,7 @@
 import { getPrice } from "./src/scrapper.js";
 import { intro, outro, text, spinner } from "@clack/prompts";
 
-export default async function (){
+
     const s = spinner();
 
 intro('welcome to amazon price bot!');
@@ -18,4 +18,3 @@ const price = await getPrice(url);
 s.stop(price);
 
 outro('Thanks for using my app!');
-}
