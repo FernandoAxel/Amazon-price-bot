@@ -1,0 +1,34 @@
+{
+  "name": "amazon-price-bot-axel",
+  "version": "1.0.0",
+  "description": "Bot from amazon to check price",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FernandoAxel/Amazon-price-bot.git"
+  },
+  "author": "Fernando Axel Lopez Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoAxel/Amazon-price-bot/issues"
+  },
+  "homepage": "https://github.com/FernandoAxel/Amazon-price-bot#readme",
+  "dependencies": {
+    "@clack/prompts": "^0.7.0",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+
+  "bin": {
+    "amazon-price-bot-axel":"./bin/global.js"
+  }
+}
