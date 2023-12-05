@@ -40,8 +40,11 @@ You will be asked to enter or paste the URL of the Nike shop product you want to
 
 Select one of the bot options
 1.Price
+
 2.Name
+
 3.Description
+
 4.Leave
 
 The program will extract the price, name and description of the product.
