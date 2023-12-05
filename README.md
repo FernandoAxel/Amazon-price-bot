@@ -39,5 +39,7 @@ Run the script using Node.js:
 npm start 
 ```
 You will be asked to enter or paste the URL of the Amazon product you want to scrape.
+
 The program will extract the price, name and description of the product.
+
 The results will be displayed in the console.
