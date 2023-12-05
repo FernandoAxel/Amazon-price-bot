@@ -4,9 +4,7 @@
 
 This is a bot that will check the price, Name and Descripcion of a products in a nike page.
 
-> **Note:** This bot is only for educational purposes. I am not responsible for any misuse of this bot.
-
-## Installation (Local)
+## Installation
 
 1. Installation
 Clone this repository or download the files.
