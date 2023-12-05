@@ -38,7 +38,7 @@ Run the script using Node.js:
 ```bash
 npm start 
 ```
-You will be asked to enter or paste the URL of the Amazon product you want to scrape.
+You will be asked to enter or paste the URL of the Nike shop product you want to scrape.
 
 The program will extract the price, name and description of the product.
 
